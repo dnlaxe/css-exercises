@@ -1,0 +1,17 @@
+/* Shared styles for both buttons */
+.black-button,
+.yellow-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Unique styles for the first button */
+.black-button {
+    background-color: black;
+    color: white;
+}
+  
+/* Unique styles for the second button */
+.yellow-button {
+    background-color: yellow;
+}
